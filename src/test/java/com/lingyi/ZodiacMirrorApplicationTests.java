@@ -11,6 +11,7 @@ public class ZodiacMirrorApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
 	}
 
 }
